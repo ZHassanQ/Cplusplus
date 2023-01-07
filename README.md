@@ -17,7 +17,11 @@ C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 ---
 - [#4 | 1. Practicing](https://github.com/ZHassanQ/Cplusplus/wiki/%234-%7C-1.-Practicing)
 - [#4 | 2. Testing](https://github.com/ZHassanQ/Cplusplus/wiki/%234-%7C-2.-Testing)
-
+---
+- [#5 | 1. While Loop]()
+- [#5 | 2. Do While Loop]()
+- [#5 | 3. For Loop]()
+- [#5 | 4. Projects to do]()
 
 More will be added by time.
 
