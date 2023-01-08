@@ -29,9 +29,21 @@ I recommend these two IDE's (integrated development environment).
 
 **Visual Studio:**
 
-- There are 3 versions for Windows & one for Mac [Commuinty](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Professional](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Enterprise](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Mac](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=17)
-- Supports plugins
+- There are 3 versions. One for Windows & one for Mac [Commuinty](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Professional](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Enterprise](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Mac](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=17)
+
 - Underlines the error code
-- Suppot custom themes
+- Gives you error codes you may seach online
 - Support Game developing & Windows apps & Computer Apps
+
+---
+
+**Visual Studio Code:**
+
+There are 4 Versions. One for [Windows](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) & one for [Mac](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) & two for Linux [DEB](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) [RPM](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
+
+- Supports fan plugins
+- Underlines the error code
+- Gives you error codes you may seach online
+- Support custom themes
+
 
