@@ -24,7 +24,7 @@ I recommend these two IDE's (integrated development environment).
 - Works everywhere
 - Fast and easy
 - Support cloud save
-- Gives you hints about your errors.
+- Gives you hints about your errors
 
 ---
 
@@ -34,6 +34,7 @@ I recommend these two IDE's (integrated development environment).
 
 - Underlines the error code
 - Gives you error codes you may seach online
+- Gives you hints about your errors
 - Support Game developing & Windows apps & Computer Apps
 
 ---
@@ -45,6 +46,7 @@ There are 4 Versions. One for [Windows](https://code.visualstudio.com/sha/downlo
 - Supports fan plugins
 - Underlines the error code
 - Gives you error codes you may seach online
+- Gives you hints about your errors
 - Support custom themes
 
 
