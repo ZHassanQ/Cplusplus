@@ -3,25 +3,10 @@ The repository's wiki will be themed in C++ so you can get used to it.
 
 C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 
-- [#1 | 1. How to Print](https://github.com/ZHassanQ/Cplusplus/wiki/%231-%7C-1.-How-to-Print)
-- [#1 | 2. Projects to do](https://github.com/ZHassanQ/Cplusplus/wiki/%231-%7C-2.-Project-to-do)
----
-- [#2 | 1. Data Types](https://github.com/ZHassanQ/Cplusplus/wiki/%232-%7C-1.-Data-types)
-- [#2 | 2. Input Output](https://github.com/ZHassanQ/Cplusplus/wiki/%232-%7C-2.-Input-Output)
-- [#2 | 3. Arithmetic Operators](https://github.com/ZHassanQ/Cplusplus/wiki/%232-%7C-3.-Arithmetic-Operators)
-- [#2 | 4. Projects to do](https://github.com/ZHassanQ/Cplusplus/wiki/%232-%7C-4.-Projects-to-do)
----
-- [#3 | 1. if, else](https://github.com/ZHassanQ/Cplusplus/wiki/%233-%7C-1.-if,-else)
-- [#3 | 2. else if](https://github.com/ZHassanQ/Cplusplus/wiki/%233-%7C-2.-else-if)
-- [#3 | 3. Projects to do](https://github.com/ZHassanQ/Cplusplus/wiki/%233-%7C-3.-Projects-to-do)
----
-- [#4 | 1. Practicing](https://github.com/ZHassanQ/Cplusplus/wiki/%234-%7C-1.-Practicing)
-- [#4 | 2. Testing](https://github.com/ZHassanQ/Cplusplus/wiki/%234-%7C-2.-Testing)
----
-- [#5 | 1. While Loop]()
-- [#5 | 2. Do While Loop]()
-- [#5 | 3. For Loop]()
-- [#5 | 4. Projects to do]()
+- [The Basics](https://github.com/ZHassanQ/Cplusplus/wiki/%231-The-Basics)
+- [Data Variables & Input](https://github.com/ZHassanQ/Cplusplus/wiki/%232-Data-Variables-&-Input)
+- [If, Else](https://github.com/ZHassanQ/Cplusplus/wiki/%233-If,-Else)
+- [Loops](https://github.com/ZHassanQ/Cplusplus/wiki/%234-Loops)
 
 More will be added by time.
 
