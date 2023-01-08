@@ -15,6 +15,7 @@ I recommend these two IDE's (integrated development environment).
 
 - [Online Compiler (gdb)](https://www.onlinegdb.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 # Features
 
@@ -29,7 +30,7 @@ I recommend these two IDE's (integrated development environment).
 
 **Visual Studio:**
 
-- There are 3 versions. One for Windows & one for Mac [Commuinty](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Professional](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Enterprise](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Mac](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=17)
+- There are 4 versions. Three for Windows & one for Mac [Commuinty](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Professional](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Enterprise](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) - [Mac](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=17)
 
 - Underlines the error code
 - Gives you error codes you may seach online
