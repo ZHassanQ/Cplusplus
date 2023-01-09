@@ -9,7 +9,7 @@ C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 - [Loops](https://github.com/ZHassanQ/Cplusplus/wiki/%234-Loops)
 - [Arrays](https://github.com/ZHassanQ/Cplusplus/wiki/%235-Arrays#arrays)
 
-This repoistory is finished and i may edit it from time to time. Please go to [Programiz](https://www.programiz.com/) because i see it the best place to learn any Programming language.
+This repoistory is finished and i may edit it from time to time. Please go to [Programiz](https://www.programiz.com/) because i see it as the best place to learn any Programming language.
 
 # Recommended IDE
 I recommend these two IDE's (integrated development environment).
