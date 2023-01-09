@@ -7,8 +7,9 @@ C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 - [Data Variables & Input](https://github.com/ZHassanQ/Cplusplus/wiki/%232-Data-Variables-&-Input)
 - [If, Else](https://github.com/ZHassanQ/Cplusplus/wiki/%233-If,-Else)
 - [Loops](https://github.com/ZHassanQ/Cplusplus/wiki/%234-Loops)
+- [Arrays](https://github.com/ZHassanQ/Cplusplus/wiki/%235-Arrays#arrays)
 
-More will be added by time.
+This repoistory is finished and i may edit it from time to time. Please go to [Programiz](https://www.programiz.com/) because i see it the best place to learn any Programming language.
 
 # Recommended IDE
 I recommend these two IDE's (integrated development environment).
