@@ -1,5 +1,5 @@
 # Cplusplus
-The repository's wiki will be themed in C++ so you can get used to it.
+The repository's only contatins the basics of C++
 
 C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 
@@ -9,7 +9,7 @@ C++ sections: [Wiki](https://github.com/ZHassanQ/Cplusplus/wiki)
 - [Loops](https://github.com/ZHassanQ/Cplusplus/wiki/%234-Loops)
 - [Arrays](https://github.com/ZHassanQ/Cplusplus/wiki/%235-Arrays#arrays)
 
-This repoistory is finished and i may edit it from time to time. Please go to [Programiz](https://www.programiz.com/) because i see it as the best place to learn any Programming language.
+This repoistory is finished. If you really want to continue to learn please go to [Programiz](https://www.programiz.com/) because i see it as the best place to learn any Programming language.
 
 # Recommended IDE
 I recommend these two IDE's (integrated development environment).
